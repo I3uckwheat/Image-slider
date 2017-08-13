@@ -7,7 +7,7 @@ $(document).ready(function(){
 });
 
 function startSlider() {
-  count = $("#slider > img").length;
+  count = $("#slider > img").size();
 
   loop = setInterval(function () {
     $("slider > img").fadeOut(300);
