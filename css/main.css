@@ -10,13 +10,12 @@
   margin: 30px auto;
 }
 
-#slider > img{
+#slider > img {
   width: 600px;
   height: 400px;
   float: left;
   display: none;
 }
-
 
 a {
   padding: 5px 10px;
@@ -26,10 +25,10 @@ a {
   color: #666;
 }
 
-a.left{
+a.left {
   float: left;
 }
 
-a.right{
+a.right {
   float: right;
 }
